@@ -1,6 +1,6 @@
 Name: xhtml2fo-style-xsl
 Version: 20051222
-Release: 8%{?dist}
+Release: 9%{?dist}
 Group: Applications/Text
 
 Summary: Antenna House, Inc. XHTML to XSL:FO stylesheets
@@ -65,6 +65,9 @@ fi
 
 
 %changelog
+* Fri Dec 27 2013 Daniel Mach <dmach@redhat.com> - 20051222-9
+- Mass rebuild 2013-12-27
+
 * Fri Feb 15 2013 Fedora Release Engineering <rel-eng@lists.fedoraproject.org> - 20051222-8
 - Rebuilt for https://fedoraproject.org/wiki/Fedora_19_Mass_Rebuild
 
